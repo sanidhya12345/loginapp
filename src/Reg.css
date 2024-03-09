@@ -1,0 +1,16 @@
+.reg{
+    width:500px;
+    height:440px;
+    background-color: red;
+}
+.email label{
+    margin-top: 20px;
+    margin-right: 58px;
+    margin-left: 20px;
+    font-size: 20px;
+    color:#fff;
+}
+.email input{
+    font-size: 20px;
+    margin-top:20px;
+}
